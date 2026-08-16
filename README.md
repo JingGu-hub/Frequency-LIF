@@ -19,7 +19,8 @@ The framework of Frequency-LIF comprises two core modules: SFDAM and TFDAM. Thes
 ### Eight real-world datasets
 
 * [ETT](https://github.com/zhouhaoyi/ETDataset/tree/main)
-* [Traffic, Solar-energy, Weather](https://github.com/thuml/Autoformer)
+* [Traffic, Weather](https://github.com/thuml/Autoformer)
+* [Solar-energy](https://github.com/laiguokun/LSTNet)
 * [Exchange](https://www.kaggle.com/datasets/giochelavaipiatti/time-series-forecasts-popular-benchmark-datasets/#site-content)
 
 ## Usage
