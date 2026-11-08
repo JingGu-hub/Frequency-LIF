@@ -44,7 +44,7 @@ class SFDAM(nn.Module):
 
         return False
 
-    def switch(self, model, low_freq_cutoff=0.1, high_freq_cutoff=0.5):
+    def switch(self, model, low_freq_cutoff=0.5, high_freq_cutoff=0.5):
         grads = []
 
         for name, param in model.named_parameters():
